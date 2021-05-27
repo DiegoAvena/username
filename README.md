@@ -1,4 +1,10 @@
 # username
+
+![userNameScreenShot](https://user-images.githubusercontent.com/43594702/119896981-a5ecf680-bef4-11eb-8ce8-c2551daf99ec.png)
+
+[See it in action!](https://www.youtube.com/watch?v=dFAM-Bx17LU)
+
+
 A bash script to check whether a string satisfies the requirements for a username.
 
 This repo contains a **zip.sh** bash script that checks whether a string is a valid 5 digit zip code.
